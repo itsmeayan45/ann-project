@@ -1,7 +1,5 @@
-# Updated requirements - v2
-streamlit
+streamlit==1.28.1
 tensorflow-cpu==2.12.0
-pandas
-numpy
-scikit-learn
-matplotlib
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.2
